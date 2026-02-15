@@ -1,0 +1,5 @@
+python-backports.tarfile source: file-without-copyright-information
+python-backports.tarfile source: no-debian-changes
+python-backports.tarfile source: source-contains-prebuilt-windows-binary
+python-backports.tarfile source: source-is-missing
+python-backports.tarfile source: source-package-encodes-python-version
